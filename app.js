@@ -1,5 +1,3 @@
-
-
 document.addEventListener("DOMContentLoaded", function () {
     const notesContainer = document.getElementById("notesContainer");
     const addNoteBtn = document.getElementById("addNoteBtn");
